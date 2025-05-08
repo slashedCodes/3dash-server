@@ -1,0 +1,12 @@
+{
+  "name": "3dash-server",
+  "module": "index.js",
+  "type": "commonjs",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

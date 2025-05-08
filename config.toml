@@ -1,0 +1,10 @@
+[server]
+port = 3000
+logging = true
+
+[recent]
+order = "RANDOM"
+levels = 20
+
+[uploading]
+allowed = false
