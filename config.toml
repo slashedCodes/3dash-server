@@ -1,6 +1,8 @@
 [server]
 port = 3000
 logging = true
+ip_blacklist = []
+blacklisted_message = "Your IP is blacklisted from this server."
 
 [recent]
 order = "RANDOM"

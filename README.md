@@ -7,11 +7,10 @@ You can use it in-game by using the server switcher hack in [3DashUtils](https:/
 
  - Uploading levels in-game
  - Disabling uploads
- - Recent levels in random order
- - Recent levels
+ - Recent levels endpoint in customizable order
  - Customizable amount of recent levels
  - Downloading levels
- - 100% API compatibility with original server
+ - API compatibility with original level server
  - IP Logging for attack mitigation
 
 # Setup
